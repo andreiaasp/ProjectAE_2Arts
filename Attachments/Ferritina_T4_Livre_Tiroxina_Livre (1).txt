@@ -1,0 +1,143 @@
+Paciente : DAVI KOBUS ZORZI Página: 1 de 3
+Médico : SEBASTIAO LEITE PINTO DN: 22/12/2006 / 9a 2m Sexo: M
+Cadastro : 10/03/2016 14:16   Protocolo: 1613.007.859-6
+Categoria : UNIMED GOIANIA  Documento: 3186709/2.VIADGPC-GO MAE
+
+Ferritina
+Soro
+
+Resultado :  115,50 ng/mL
+
+Valores de referência
+Masculino
+Feminino
+30,00 a 400,00 ng/mL
+13,00 a 150,00 ng/mL
+
+Método : Imunoturbidimétrico
+
+Coleta realizada pelo laboratório.
+Coleta: 12/03/2016 08:32 Liberação: 13/03/2016 19:25
+Impressão: 16/03/2016 15:34:17
+
+Liberado por: Dr. LUIZ GUSTAVO MARTINS SOUSA CRBM-3 1309       Responsável: Dr. GUSTAVO GABRIEL RASSI CRMGO 6450
+Atalaia Medicina Diagnóstica CRM 2663 GO
+
+T4 Livre (Tiroxina Livre)
+Soro
+
+Resultado
+Resultados anteriores:
+: 1,54 ng/dL
+1,40 ng/dL em 25/jul/15
+
+Valores de referência 0,93 a 1,70 ng/dL
+
+Método : Eletroquimioluminescência.
+
+Coleta realizada pelo laboratório.
+Coleta: 12/03/2016 08:32 Liberação: 13/03/2016 19:25
+Impressão: 16/03/2016 15:34:17
+
+Liberado por: Dr. LUIZ GUSTAVO MARTINS SOUSA CRBM-3 1309       Responsável: Dr. GUSTAVO GABRIEL RASSI CRMGO 6450
+Atalaia Medicina Diagnóstica CRM 2663 GO
+
+A interpretação de resultados de exames laboratoriais e a conclusão diagnóstica são atos médicos que dependem
+da análise conjunta de dados clínicos, epidemiológicos e da correlação com resultados de outros exames.
+
+.Paciente : DAVI KOBUS ZORZI Página: 2 de 3
+Médico : SEBASTIAO LEITE PINTO DN: 22/12/2006 / 9a 2m Sexo: M
+Cadastro : 10/03/2016 14:16   Protocolo: 1613.007.859-6
+Categoria : UNIMED GOIANIA  Documento: 3186709/2.VIADGPC-GO MAE
+
+Hormônio Tireoestimulante Ultra Sensível TSH
+Soro
+
+Resultado :  1,160 µUI/mL
+
+Valores de referência 0,270 a 4,200 µUI/mL
+Referência Bibliográfica: Fontes R, Coeli C, Aguiar F, Vaisman M. Thyroid Research 2013; 3:13-20.
+
+Método : Eletroquimioluminescência.
+
+Coleta realizada pelo laboratório.
+Coleta: 12/03/2016 08:32 Liberação: 13/03/2016 19:25
+Impressão: 16/03/2016 15:34:17
+
+Liberado por: Dr. LUIZ GUSTAVO MARTINS SOUSA CRBM-3 1309       Responsável: Dr. GUSTAVO GABRIEL RASSI CRMGO 6450
+Atalaia Medicina Diagnóstica CRM 2663 GO
+
+Glicose
+Soro
+Valor Referencial Cursor
+Resultado :  81 mg/dL 70 -  99 mg/dL
+
+Valores referenciais
+Normal
+Suspeito
+Possível Diabetes
+70 - 99 mg/dL
+100 - 125 mg/dL
+> 125 mg/dL
+
+Método : Enzimático com hexoquinase
+
+Coleta realizada pelo laboratório.
+Coleta: 12/03/2016 08:32 Liberação: 13/03/2016 19:25
+Impressão: 16/03/2016 15:34:17
+
+Liberado por: Dr. LUIZ GUSTAVO MARTINS SOUSA CRBM-3 1309       Responsável: Dr. GUSTAVO GABRIEL RASSI CRMGO 6450
+Atalaia Medicina Diagnóstica CRM 2663 GO
+
+A interpretação de resultados de exames laboratoriais e a conclusão diagnóstica são atos médicos que dependem
+da análise conjunta de dados clínicos, epidemiológicos e da correlação com resultados de outros exames.
+
+.Paciente : DAVI KOBUS ZORZI Página: 3 de 3
+Médico : SEBASTIAO LEITE PINTO DN: 22/12/2006 / 9a 2m Sexo: M
+Cadastro : 10/03/2016 14:16   Protocolo: 1613.007.859-6
+Categoria : UNIMED GOIANIA  Documento: 3186709/2.VIADGPC-GO MAE
+
+HEMOGRAMA COMPLETO
+Sangue Total
+Analitos  Resultado Valores Referenciais Cursor
+ERITROGRAMA
+Eritrócitos :  4,8 tera/L 4,2 -  5,5 tera/L
+Hemoglobina :  13,5 g/dL 11,5 -  14,5 g/dL
+Hematócrito :  39,4 % 32,0 -  45,0 %
+VCM :  82,3 fL 75,0 -  85,0 fL
+HCM :  28,2 pg 28,0 -  30,0 pg
+CHCM :  34,3 % 33,0 -  37,0 %
+RDW :  15,5 % 11,0 -  14,8 %
+LEUCOGRAMA
+Leucócitos totais :  100 % 5.000 /µL 4.000 -  12.000 /µL
+Promielócitos :  0 % 0 /µL 0 -  0 /µL
+Mielócitos :  0 % 0 /µL 0 -  0 /µL
+Metamielócitos :  0 % 0 /µL 0 -  0 /µL
+Bastonetes :  3 % 150 /µL 0 -  500 /µL
+Segmentados :  52 % 2.600 /µL 1.500 -  7.000 /µL
+Linfócitos :  37 % 1.850 /µL 2.000 -  6.000 /µL
+Monócitos :  4 % 200 /µL 100 -  1.000 /µL
+Eosinófilos :  3 % 150 /µL 35 -  500 /µL
+Basófilos :  1 % 50 /µL 0 -  100 /µL
+Plasmócitos :  0 % 0 /µL 0 -  0 /µL
+Blastos :  0 % 0 /µL 0 -  0 /µL
+PLAQUETOGRAMA
+Plaquetas :  474.000 /µL 150.000 -  500.000 /µL
+Plaquetócrito :  0,388 % 0,100 -  0,500 %
+Volume médio :  8,20 fL 6,00 -  12,00 fL
+PDW :  13,30 % 10,00 -  18,00 %
+.
+Método : Contagens eletrônicas automatizadas e microscopia. Equipamento: Pentra 120. ABX.
+
+Coleta realizada pelo laboratório.
+Coleta: 12/03/2016 08:32 Liberação: 12/03/2016 12:52
+Impressão: 16/03/2016 15:34:17
+
+Liberado por: Dra. GLAUCIE MENDES DE SOUZA CRBM 5409
+Atalaia Medicina Diagnóstica CRM 2663 GO
+Responsável: Dr. GUSTAVO GABRIEL RASSI CRMGO 6450
+
+A interpretação de resultados de exames laboratoriais e a conclusão diagnóstica são atos médicos que dependem
+da análise conjunta de dados clínicos, epidemiológicos e da correlação com resultados de outros exames.
+
+.

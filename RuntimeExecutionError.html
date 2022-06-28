@@ -282,11 +282,18 @@
 
 		<div style="width: 80%; float:left; margin-left: 12pt;">
 			<p>
-				Something went wrong with <strong></strong>.
-				<br>Activity <strong>For Each UI Element</strong> (<strong>N For Each Ui Element</strong>) failed:
-				<br><br><strong><i id="problem-desc">The data scraping operation has timed out.
+				Ocorreu um erro com <strong>
+				<br>Ocorreu uma falha na atividade <strong>Type Into 'Leucócitos'</strong> (<strong>N Type Into
+				<br><br><strong><i id="problem-desc">Não foi possível encontrar o elemento da interface de utilizador (IU) para esta ação.
+
+Possíveis soluções:
+ •  Certifique-se de que a aplicação está aberta e de que o elemento da IU é visível no ecrã na altura da execução
+ •  Edite o Destino da atividade da IU e utilize a Validação para depurar o problema. 
+ •  Se for necessário, volte a indicar o elemento, uma vez que as respetivas propriedades podem ter mudado
+ •  Utilize a atividade "Check state" para verificar o estado da aplicação antes de executar a ação
+ •  Aumente o valor "Delay before" para dar tempo à aplicação de ser composta na totalidade e tornar-se responsiva
 </i></strong>
-				<br><br>You can find the activity by searching id (press Ctrl + J to jump to activity):<br><strong>01007</strong>
+				<br><br>You can find the activity by searching id (press Ctrl + J to jump to activity):<br><strong>0105C</strong>
 			</p>
 		</div>
 	</div>
@@ -294,19 +301,19 @@
 	<div>
 		<div id="action_info_text">
 			<p class="action_info">
-			<span>Press <strong>Retry</strong> to re-execute the activity.</span>
-			<span>Press <strong>Skip</strong> to continue execution from the next activity.</span>
-			<span id="SkipIterationContainer">Press <strong>Skip Item</strong> to continue with the next item.</span>
-			<span>Press <strong>Stop</strong> to stop the execution of the process.</span>
+			<span>Prima <strong>Tentar novamente</strong> para voltar a executar a atividade atual.</span>
+			<span>Prima <strong>Ignorar</strong> para continuar a execução a partir da atividade seguinte.</span>
+			<span id="SkipIterationContainer">Prima <strong>Ignorar item</strong> para avançar para o item seguinte.</span>
+			<span>Prima <strong>Parar</strong> para parar a execução do processo.</span>
 			</p>
 		</div>
 		<div class="action_info">
 			<div id="buttons_master_container">
 				<div id="buttons_container" >
-					<input type="submit" class="btn" name="Stop" value="Stop" onclick="Submit('Stop')" />
-					<div id="SkipIterationContainer"><input type="submit" class="btn" name="Skip Item" value="Skip Item" onclick="Submit('SkipIteration')" /></div>
-					<input type="submit" class="btn btn-primary" name="Skip" value="Skip" onclick="Submit('Skip')" />
-					<input type="submit" class="btn" name="Retry" value="Retry" onclick="Submit('Retry')" />
+					<input type="submit" class="btn" name="Stop" value="Parar" onclick="Submit('Stop')" />
+					<div id="SkipIterationContainer"><input type="submit" class="btn" name="Skip Item" value="Ignorar item" onclick="Submit('SkipIteration')" /></div>
+					<input type="submit" class="btn btn-primary" name="Skip" value="Ignorar" onclick="Submit('Skip')" />
+					<input type="submit" class="btn" name="Retry" value="Tentar novamente" onclick="Submit('Retry')" />
 				</div>
 			</div>
 		</div>
